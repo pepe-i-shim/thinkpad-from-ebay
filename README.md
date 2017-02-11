@@ -2,6 +2,18 @@
 
 # FAQ по приобретению ThinkPad на Ebay
 
+## Оглавление
+- [Краткая суть](https://github.com/pepe-i-shim/thinkpad-from-ebay/blob/master/README.md#Краткая-суть)
+- [Полезные советы](https://github.com/pepe-i-shim/thinkpad-from-ebay/blob/master/README.md#Краткая-суть)
+- [Подводные камни](https://github.com/pepe-i-shim/thinkpad-from-ebay#Подводные-камни)
+- [Аукционы](https://github.com/pepe-i-shim/thinkpad-from-ebay#Аукционы)
+  - [Процесс торгов](https://github.com/pepe-i-shim/thinkpad-from-ebay#Процесс-торгов)
+  - [Списки отслеживания](https://github.com/pepe-i-shim/thinkpad-from-ebay#Списки-отслеживания)
+  - ["Снайперы"](https://github.com/pepe-i-shim/thinkpad-from-ebay#Снайперы)
+  - [Вопрос-ответ](https://github.com/pepe-i-shim/thinkpad-from-ebay#Вопрос-ответ)
+  - [Полезности](https://github.com/pepe-i-shim/thinkpad-from-ebay#Полезности)
+- [Как правильно получать посылку](https://github.com/pepe-i-shim/thinkpad-from-ebay#Как-правильно-получать-посылку)
+
 ## Краткая суть
 
 1. Регистрируешься на ebay и paypal, если еще этого не сделал. Регаться в paypal надо обязательно через ebay, а не напрямую. Иначе Paypal при реге не ползволяет писать имя и адрес транслитом, только кириллица разрешена, а через ebay спокойно можно. И нужно это для того, чтобы продаван и все остальные не охуели там с непонятных буков.
