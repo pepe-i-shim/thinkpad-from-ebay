@@ -4,6 +4,8 @@
 
 _Специально для ThinkPad-треда на [2ch.hk/hw](https://2ch.hk/hw)_
 
+![](https://github.com/pepe-i-shim/thinkpad-from-ebay/blob/master/files/ThinkPad_Logo.png) ![](https://github.com/pepe-i-shim/thinkpad-from-ebay/blob/master/files/EBay_Logo.png) ![](https://github.com/pepe-i-shim/thinkpad-from-ebay/blob/master/files/Thinkpads_on_table.jpg)
+
 ## Оглавление
 - [Краткая суть](https://github.com/pepe-i-shim/thinkpad-from-ebay/blob/master/README.md#Краткая-суть)
 - [Полезные советы](https://github.com/pepe-i-shim/thinkpad-from-ebay/blob/master/README.md#Краткая-суть)
@@ -29,7 +31,7 @@ _Специально для ThinkPad-треда на [2ch.hk/hw](https://2ch.hk
 
 - Пользуясь поиском по Ebay, используя сортировку по компонентам, отмечай в том числе и `"не указано"` чтобы не пропустить массу интересных лотов. Часто продавцы ленятся и не указывают параметры в нужных полях, но пишут их в описании или названии лота.
 
-- Предпочтительнее приобретать у продавцов которые торгуют ноутбуками (тоесть у них сразу активно много лотов). У ноунеймов брать на свой страх и риск, либо после беседы с продавцом (на самом деле там не все пидорахены, но подстраховаться стоит).
+- Предпочтительнее приобретать у продавцов которые торгуют ноутбуками (тоесть у них сразу активно много лотов. Наример: [luxnote-hannover-de](http://www.ebay.com/usr/luxnote-hannover-de)). У ноунеймов брать на свой страх и риск, либо после беседы с продавцом (на самом деле там не все пидорахены, но подстраховаться стоит).
 
 - Если продавец в США и не шлет в твою страну, можно воспользоваться ресурсом-`посредником`. Только учти, что по США за доставку до посредника доставку тоже скорее всего придется заплатить. Обычно это 10-15 баксов. Учитывай это, если строго ограничен бюджетом. Приведу ссылки на популярные ресурсы-посредники:
   - [pochtoy.com](https://pochtoy.com)
@@ -46,9 +48,9 @@ _Специально для ThinkPad-треда на [2ch.hk/hw](https://2ch.hk
 
 - Задав параметры и фильтры поиска (не забывая включить в фильтрах параметров `"не указано"`), вверху под строкой поиска есть кнопка Follow (Подписаться). Если её жмакнуть то на почту каждый день будет присылаться уведомление о новых лотах соответствующих твоим требованиям. Очень удобно отслеживать новинки а так же в один клик возвращаться к своим настройкам поиска. Лично я отдельно подписывался на аукционы и на лоты _"Купить сейчас"_. 
 
-- Через фотографии ноутбука можно [выяснить его серийный номер](http://support.lenovo.com/ru/ru/find-product-name), после чего на сайте lenovo можно [ознакомиться с наличием/датой окончания гарантии, а так же железом](http://support.lenovo.com/ru/ru/partslookup) что находится "под капотом" данного экземпляра. Так же можно `пробить комплектацию` по [данной](https://drive.google.com/file/d/0B08nIGWWh7zZTlJnU0t6YUlzY28/view) Excel-таблице ([зеркало](https://github.com/pepe-i-shim/thinkpad-from-ebay/blob/master/files/thinkpads-filter.zip)).
+- Через фотографии ноутбука можно [выяснить его серийный номер](http://support.lenovo.com/ru/ru/find-product-name), после чего на сайте lenovo можно [ознакомиться с наличием/датой окончания гарантии, а так же железом](http://support.lenovo.com/ru/ru/partslookup) что находится "под капотом" данного экземпляра. Так же можно `пробить комплектацию` по [данной](https://drive.google.com/file/d/0B08nIGWWh7zZTlJnU0t6YUlzY28/view) Excel-таблице ([зеркало](https://github.com/pepe-i-shim/thinkpad-from-ebay/raw/master/files/thinkpads-filter.zip)).
 
-- Если `с английским туго`, воспользуйся [разговорным словарем](https://docs.google.com/spreadsheets/d/1DmYscsy04qkM_eRnZrLVMR2oAgRS1eRQbRlHcWLa0aY/edit#gid=0) из Aliexpress-треда;
+- Если `с английским туго`, воспользуйся [разговорным словарем](https://docs.google.com/spreadsheets/d/1DmYscsy04qkM_eRnZrLVMR2oAgRS1eRQbRlHcWLa0aY/edit#gid=0) из Aliexpress-треда [(зеркало)](https://github.com/pepe-i-shim/thinkpad-from-ebay/raw/master/files/Словарь_стандартных_фраз_для_общения_с_продавцами_на_Aliexpress.xlsx);
 
 ## Подводные камни
 
