@@ -4,7 +4,7 @@
 
 _Специально для ThinkPad-треда на [2ch.hk/hw](https://2ch.hk/hw)_
 
-![](https://github.com/pepe-i-shim/thinkpad-from-ebay/blob/master/files/ThinkPad_Logo.png) ![](https://github.com/pepe-i-shim/thinkpad-from-ebay/blob/master/files/EBay_Logo.png) ![](https://github.com/pepe-i-shim/thinkpad-from-ebay/blob/master/files/Thinkpads_on_table.jpg)
+![](https://github.com/pepe-i-shim/thinkpad-from-ebay/blob/master/files/faq_header.png)
 
 ## Оглавление
 - [Краткая суть](https://github.com/pepe-i-shim/thinkpad-from-ebay/blob/master/README.md#Краткая-суть)
